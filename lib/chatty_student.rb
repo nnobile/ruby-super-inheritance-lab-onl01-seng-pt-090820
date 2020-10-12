@@ -1,2 +1,2 @@
-class ChattyStudent
+class ChattyStudent < User
 end
